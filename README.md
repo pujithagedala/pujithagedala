@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujitha Gedala</h1>
-<h3 align="center">Aspiring Software & AI Engineer | Proficient in Python & Data Structures | Passionate About Building Intelligent Solutions</h3>
+<h3 align="center">Aspiring Software Engineer | Proficient in Java & Data Structures | Passionate About Building Intelligent Solutions</h3>
 
 - 🌱 I’m currently learning **FULLSTACK WEB DEV!**
 
